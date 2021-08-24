@@ -15,7 +15,7 @@
           width="40"
         />
         <h2 class="font-weight-bold white--text">
-          List Devices
+          Monitor
         </h2>
       </div>
     </v-app-bar>
